@@ -1,2 +1,2 @@
-# scary_data_week_2025
-An archive of 2025 Scary Data Week
+# Scary Data Week 2025
+An archive of AU's 2025 Scary Data Week
